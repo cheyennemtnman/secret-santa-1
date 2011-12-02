@@ -1,0 +1,21 @@
+* secret-santa
+
+  This script selects secret santas from a list of people. The rules are as follows:
+  
+  - Your secret santa cannot be you.
+  - Your secret santa cannot be someone in your immediate familial unit.
+  - Your secret santa cannot be the same person as it was last year.
+  - There can be no mutual santas.
+
+  The script takes a list of people with their familial unit specified and an email address. The pairings are generated
+  and an email is generated to each person letting them know for who they are a secret santa.
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) 2011 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
