@@ -10,12 +10,12 @@
   The script takes a list of people with their familial unit specified and an email address. The pairings are generated
   and an email is generated to each person letting them know for who they are a secret santa.
 
-## Usage
+** Usage
 
-FIXME: write
+   Still working on this.
 
-## License
+** License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 
 
 Distributed under the Eclipse Public License, the same as Clojure.
